@@ -1,5 +1,5 @@
 
-# Redux TodoMVC Example (example4545)
+# Redux TodoMVC Example (example1)
 
 >>>>>>> 01d09fd99cadb1c5f3a3d20582b24c8e0e8dbc38
 
