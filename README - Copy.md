@@ -1,4 +1,7 @@
+
 # Redux TodoMVC Example (example4545)
+
+>>>>>>> 01d09fd99cadb1c5f3a3d20582b24c8e0e8dbc38
 
 This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app), which provides a simple way to start React projects with no build configuration needed.
 
